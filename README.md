@@ -29,8 +29,9 @@ counter-application/
 
 1. Download the project.
 2. Open `index.html` in your browser.
+3. you can view my application here https://addsub.ccbp.tech/
+
 
 ## 👨‍💻 Author
 
 **Thanmai**
-##you can view my application here https://addsub.ccbp.tech/
